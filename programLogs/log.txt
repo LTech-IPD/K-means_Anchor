@@ -1,0 +1,58 @@
+>>> 2022-3-2 13:58:1 :Running check failed.
+Error: Invalid labelPath. Please reset the path.
+Warning: k should be an integer. Casting k to 1 .
+Warning: maxIterNum should be an integer. Casting maxIterNum to 9 .
+Warning: maxDrawNum should be an integer. Casting maxDrawNum to 2 .
+Warning: clusterSpacing should be an integer. Casting clusterSpacing to 3 .
+>>> 2022-3-2 13:58:36 :Running check failed.
+Error: Invalid labelPath. Please reset the path.
+Warning: k should be an integer. Casting k to 1 .
+Warning: maxIterNum should be an integer. Casting maxIterNum to 9 .
+Warning: maxDrawNum should be an integer. Casting maxDrawNum to 2 .
+Warning: clusterSpacing should be an integer. Casting clusterSpacing to 3 .
+>>> 2022-3-2 13:59:6 :Running check success.
+Warning: k should be an integer. Casting k to 1 .
+Warning: maxIterNum should be an integer. Casting maxIterNum to 9 .
+Warning: maxDrawNum should be an integer. Casting maxDrawNum to 2 .
+Warning: clusterSpacing should be an integer. Casting clusterSpacing to 3 .
+>>> 2022-3-2 14:0:16 :Running check success.
+Warning: k should be an integer. Casting k to 1 .
+>>> 2022-3-2 14:0:34 :Running check success.
+Warning: k should be an integer. Casting k to 1 .
+Warning: maxIterNum should be an integer. Casting maxIterNum to 9 .
+Warning: maxDrawNum should be an integer. Casting maxDrawNum to 2 .
+Warning: clusterSpacing should be an integer. Casting clusterSpacing to 3 .
+>>> 2022-3-2 14:1:1 :Running check failed.
+Warning: k should be an integer. Casting k to 1 .
+Warning: maxIterNum should be an integer. Casting maxIterNum to 9 .
+Warning: maxDrawNum should be an integer. Casting maxDrawNum to 2 .
+Warning: clusterSpacing should be an integer. Casting clusterSpacing to 3 .
+Warning: zoomRatio should be an integer. Casting zoomRatio to 3 .
+2022-3-2 14:1:1 :Running permission command input error. Exited.
+>>> 2022-3-2 14:6:55 :Running check success.
+>>> 2022-3-2 14:17:13 :Running check success.
+>>> 2022-3-2 14:18:33 :Running check success.
+>>> 2022-3-2 14:19:7 :Running check success.
+>>> 2022-3-2 14:19:14 :Running check success.
+>>> 2022-3-2 14:19:24 :Running check success.
+>>> 2022-3-2 14:22:57 :Running check success.
+Warning: maxDrawNum should be an integer. Casting maxDrawNum to 1000 .
+2022-3-2 14:22:38 :Rewrite diagram.Permission passed. Rewrite:True
+>>> 2022-3-2 14:25:27 :Running check success.
+Warning: k should be an integer. Casting k to 2 .
+Warning: maxDrawNum should be an integer. Casting maxDrawNum to 1000 .
+2022-3-2 14:25:7 :Rewrite diagram.Permission passed. Rewrite:True
+2022-3-2 14:25:7 :Cluster center color invalid.Set it to defaul value.
+2022-3-2 14:25:7 :Box color invalid.Set it to defauly value.
+>>> 2022-3-2 14:32:34 :Running check success.
+2022-3-2 14:31:0 :Rewrite diagram.Permission passed. Rewrite:True
+>>> 2022-3-2 14:34:29 :Running check success.
+2022-3-2 14:33:46 :Rewrite diagram.Permission passed. Rewrite:False
+>>> 2022-3-2 17:31:33 :Running check success.
+2022-3-2 17:30:40 :Rewrite diagram.Permission passed. Rewrite:True
+>>> 2022-3-2 18:9:56 :Running check success.
+2022-3-2 18:9:56 :Rewrite diagram.Permission passed. Rewrite:False
+>>> 2022-3-2 18:11:40 :Running check success.
+2022-3-2 18:11:40 :Rewrite diagram.Permission passed. Rewrite:False
+>>> 2022-3-2 18:13:10 :Running check success.
+Warning: Diagram would be saved only when drawDiagram==True.
